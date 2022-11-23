@@ -1,2 +1,2 @@
 # Zoom
-- Nenhum comando foi traduzido para o inglêS até o momento.
+- Nenhum comando foi traduzido para o inglês até o momento.
