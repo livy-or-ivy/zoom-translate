@@ -1,8 +1,8 @@
 {
-    "1": "Essa função está disponível somente aos usuários Premium.",
-    "2": "O seu banner está em verificação, por isso você não pode alterar-lo, caso queira alterar o seu banner, necessitará remover-lo e setar novamente, consecutivamente parando o processo de verificação.",
-    "3": "O seu banner atual já está verificado, por motivos de segurança você não pode alterar-lo, caso queira alterar, você necessitará remover-lo e adicionar novamente, consecutivamente perdendo a verificação e tendo que verificar novamente.",
-    "4": "O seu banner foi alterado com sucesso!\n\n<:danger:1030934351556378655> Por motivos de segurança, ele foi enviado para a verificação, e estará disponível somente quando for verificado, você não receberá nenhum aviso caso for aprovado ou negado.",
-    "5": "Você não possui nenhum banner definido para remover-lo.",
-    "6": "O seu banner foi removido, devido a remoção, tanto o verificado quanto a verificação foram cancelados."
+    "1": "Only Premium Users can use this command.",
+    "2": "Your banner is being verified, so you cannot change it, if you want to change your banner, you will need to remove it and set it again, consecutively stopping the verification process.",
+    "3": "Your current banner is already verified, for security reasons you cannot change it, if you want to change it, you will need to remove it and add it again, consecutively losing verification and having to verify again.",
+    "4": "Your banner has been successfully changed!\n\n<:danger:1030934351556378655> For security reasons, it has been submitted for verification, and will only be available when it is verified, you will not receive any notice if it is approved or denied.",
+    "5": "You don't have any banner set to remove it.",
+    "6": "Your banner has been removed, due to the removal, both the verified and the verification were cancelled."
 }
