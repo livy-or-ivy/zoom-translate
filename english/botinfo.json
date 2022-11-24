@@ -1,21 +1,21 @@
 {
-    "1": "Informações sobre o Zoom",
+    "1": "BOT Information",
     "2": {
-        "1": "Informações Gerais",
-        "2": "Tempo de Resposta",
-        "3": "Tempo de Atividade",
-        "4": "Data de Criação"
+        "1": "Zoom Data",
+        "2": "Response Time",
+        "3": "Activity Time",
+        "4": "Creation Date"
     },
-    "3": "Hospedagem",
+    "3": "Hosting",
     "4": {
-        "1": "Detalhes",
-        "2": "Desenvolvedora",
-        "3": "Versão"
+        "1": "Details",
+        "2": "Developer",
+        "3": "Version"
     },
     "5": {
-        "1": "Estatísticas",
-        "2": "Servidores",
-        "3": "Usuários",
-        "4": "Canais"
+        "1": "Statistics",
+        "2": "Servers",
+        "3": "Users",
+        "4": "Channels"
     }
 }
