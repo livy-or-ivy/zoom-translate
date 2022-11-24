@@ -1,12 +1,12 @@
 {
-    "1": "Você não possui Coins suficiente para apostar.",
-    "2": "O Valor mínimo de aposta é de ``$100``.",
+    "1": "You don't have enough Coins to bet.",
+    "2": "The minimum bet amount is ``$100``.",
     "3": {
-        "1": "A sua aposta está sendo realizada...\n<:money:1030934356841213972> Foi descontado",
-        "2": "da sua conta."
+        "1": "Your bet is being made...\n<:money:1030934356841213972> Has been removed",
+        "2": "from your account"
     },
     "4": {
-        "1": "A sua aposta foi realizada com sucesso! Você ganhou",
+        "1": "Your bet has been successfully placed! You won",
         "2": "Coins."
     }
 }
