@@ -1,0 +1,8 @@
+{
+    "1": "Essa função está disponível somente aos usuários Premium.",
+    "2": "O seu banner está em verificação, por isso você não pode alterar-lo, caso queira alterar o seu banner, necessitará remover-lo e setar novamente, consecutivamente parando o processo de verificação.",
+    "3": "O seu banner atual já está verificado, por motivos de segurança você não pode alterar-lo, caso queira alterar, você necessitará remover-lo e adicionar novamente, consecutivamente perdendo a verificação e tendo que verificar novamente.",
+    "4": "O seu banner foi alterado com sucesso!\n\n<:danger:1030934351556378655> Por motivos de segurança, ele foi enviado para a verificação, e estará disponível somente quando for verificado, você não receberá nenhum aviso caso for aprovado ou negado.",
+    "5": "Você não possui nenhum banner definido para remover-lo.",
+    "6": "O seu banner foi removido, devido a remoção, tanto o verificado quanto a verificação foram cancelados."
+}
