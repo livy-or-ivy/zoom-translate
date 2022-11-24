@@ -1,0 +1,12 @@
+{
+    "1": "Você necessita possuir a permissão ``BANIR MEMBROS`` para executar essa função.",
+    "2": "O Limite de Warns a ser removido é **10**.",
+    "3": "O Mínimo de Warns a ser removido é **1**.",
+    "4": "Esse usuário não possui nenhum warn para ser removido.",
+    "5": "Você removeu todos os warns do usuário.",
+    "6": {
+        "1": "Você removeu",
+        "2": "do Usuário, agora ele possui",
+        "3": "Warns"
+    }
+}

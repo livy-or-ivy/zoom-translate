@@ -1,0 +1,26 @@
+{
+    "0": {
+        "1": "Sim",
+        "2": "Não",
+        "3": "Nenhuma",
+        "4": "Nenhuma mensagem definida.",
+        "5": "A mensagem do Sobre Mim foi definida pelo(a) usuário(a)",
+        "6": "denúncie caso ela quebre as regras da ToS ou do Zoom."
+    },
+    "1": "Informações sobre o Usuário",
+    "2": {
+        "1": "Informações Gerais",
+        "2": "Usuário",
+        "3": "Data de Criação",
+        "4": "Criado à",
+        "5": "Ativo Desde"
+    },
+    "3": {
+        "1": "Perfil no Zoom",
+        "2": "Sobre Mim"
+    },
+    "4": {
+        "1": "Detalhes",
+        "2": "⠀ㅤAltere a imagem que aparecerá aqui pelo comando ``/banner``.\n⠀ㅤAltere a cor do embed dessa mensagem pelo comando ``/cor``."
+    }
+}
