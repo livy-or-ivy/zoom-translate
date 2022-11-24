@@ -1,8 +1,8 @@
 {
-    "1": "Você necessita possuir a permissão ``GERENCIAR CANAIS`` para executar essa função.",
-    "2": "O Canal de Comandos foi atualizado com sucesso.",
-    "3": "O Canal de Comandos já esta ligado.",
-    "4": "O Envio de Mensagens de Logs foi ligado com sucesso.",
-    "5": "O Canal de Comandos já esta desligado.",
-    "6": "O Canal de Comandos foi desligado com sucesso."
+    "1": "You must have ``MANAGE CHANNELS`` permission to run this command.",
+    "2": "The Command Channel has been successfully updated.",
+    "3": "The Command Channel is already on.",
+    "4": "Log Messaging has been turned on successfully.",
+    "5": "The Command Channel is already turned off.",
+    "6": "The Command Channel has been successfully shut down."
 }
