@@ -1,27 +1,27 @@
 {
-    "1": "Você está visualizando o perfil do(a)",
+    "1": "You are viewing the profile of",
     "2": {
-        "1": "Informações sobre o Wordle",
+        "1": "Wordle Information",
         "2": {
-            "1": "Estatísticas",
-            "2": "Partidas Totais",
-            "3": "Vitórias",
-            "4": "Derrotas"
+            "1": "Statistics",
+            "2": "Total Games",
+            "3": "Wins",
+            "4": "Defeats"
         }, 
         "3": {
-            "1": "Informações do Rank",
-            "2": "Nível Atual",
+            "1": "Rank Information",
+            "2": "Current Level",
             "3": "EXP"
         }
     },
-    "3": "A palavra precisa ter ``5`` Letras.",
-    "4": "Essa palavra não existe ou não está inclusa ao nosso banco de dados.",
-    "5": "Você não pode repetir palavras.",
-    "6": "Você ganhou",
-    "7": "Você perdeu",
-    "8": "Você acertou a palavra e venceu o jogo!",
-    "9": "Você atingiu o máximo de tentativas e acabou perdendo, a palavra correta era:",
-    "10": "Você não está em nenhuma partida para encerra-lá.",
-    "11": "Você perdeu **150 EXP** por desistir do jogo.",
-    "12": "O jogo foi encerrado com sucesso, a palavra certa era:"
+    "3": "The word must have ``5`` letters.",
+    "4": "This word doesn't exist or is not included in our database.\n🇧🇷 Zoom only accept Brazilian Portuguese words.",
+    "5": "You cannot repeat words.",
+    "6": "You won",
+    "7": "You lost",
+    "8": "You got the word right and won the game!",
+    "9": "You reached the maximum number of attempts and ended up losing, the correct word was:",
+    "10": "You are not in any match to end it.",
+    "11": "You lost **150 EXP** for quitting the game.",
+    "12": "The game ended successfully, the right word was:"
 }
