@@ -1,7 +1,7 @@
 {
-    "1": "Você necessita atribuir a permissão ``GERENCIAR CARGOS`` para executar essa função.",
+    "1": "You need assign at zoom the permission ``MANAGE ROLES`` to execute this command.",
     "2": {
-        "1": "O ID do Cargo",
-        "2": "é"
+        "1": "The ID of the role",
+        "2": "is"
     }
 }
