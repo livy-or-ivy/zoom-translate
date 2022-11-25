@@ -1,8 +1,0 @@
-{
-    "1": "Only Premium Users can use this command.",
-    "2": "Your banner is being verified, so you cannot change it, if you want to change your banner, you will need to remove it and set it again, consecutively stopping the verification process.",
-    "3": "Your current banner is already verified, for security reasons you cannot change it, if you want to change it, you will need to remove it and add it again, consecutively losing verification and having to verify again.",
-    "4": "Your banner has been successfully changed!\n\n<:danger:1030934351556378655> For security reasons, it has been submitted for verification, and will only be available when it is verified, you will not receive any notice if it is approved or denied.",
-    "5": "You don't have any banner set to remove it.",
-    "6": "Your banner has been removed, due to the removal, both the verified and the verification were cancelled."
-}

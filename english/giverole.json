@@ -1,7 +1,0 @@
-{
-    "1": "You need assign at zoom the permission ``MANAGE ROLES`` to execute this command.",
-    "2": "You must have ``MANAGE ROLES`` permission to run this command.",
-    "3": "This user already have this role.",
-    "4": "Could not assign role to user, check if Zoom role is higher.",
-    "5": "Role successfully assigned to the user."
-}
