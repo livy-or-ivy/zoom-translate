@@ -1,9 +1,9 @@
 {
-    "1": "Você não pode pagar a sí mesmo.",
-    "2": "Você não possui esse valor.",
-    "3": "O Valor mínimo de pagamento é de ``$2``.",
+    "1": "You cannot pay yourself.",
+    "2": "You do not have this balance.",
+    "3": "The minimum payment amount is ``$2``.",
     "4": {
-        "1": "Você pagou",
-        "2": "para o(a)"
+        "1": "You paid",
+        "2": "for"
     }
 }
