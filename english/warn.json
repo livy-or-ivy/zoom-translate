@@ -1,13 +1,13 @@
 {
-    "1": "Você necessita possuir a permissão ``BANIR MEMBROS`` para executar essa função.",
-    "2": "O usuário atingiu o limite de warns porém não foi possível efetuar o banimento devido a falta da permissão ``BANIR MEMBROS``, atribua a permissão ao Zoom e tente novamente.",
-    "3": "O usuário atingiu o limite de warn's e foi banido automáticamente, essa mensagem será deletada automáticamente em **5s**.",
-    "4": "Usuário banido ao completar o limite de warn do servidor.",
-    "5": "O usuário atingiu o limite de warn's, porem ocorreu um problema ao tentar aplicar o banimento, verifique se o meu cargo é superior ao usuário, essa mensagem será deletada após **5s**.",
+    "1": "You must have ``BAN MEMBERS`` permission to execute this command.",
+    "2": "The user reached the limit of warns but it was not possible to banish him due to lack of the permission ``BAN MEMBERS``, assign the permission to Zoom and try again.",
+    "3": "The user reached the warn's limit and was automatically banned, this message will be automatically deleted in **5s**.",
+    "4": "User banned because reached the server's warn limit.",
+    "5": "The user reached the warn's limit, but there was a problem when trying to apply the ban, check if Zoom role is higher than the user's, this message will be deleted after **5s**.",
     "6": {
-        "1": "O(a) Moderador",
-        "2": "warnou o(a)",
-        "3": "pelo motivo"   
+        "1": "The moderator",
+        "2": "warned",
+        "3": "by the reason"   
     },
-    "7": "Você warnou o usuário com sucesso."
+    "7": "You have successfully warned the user."
 }
