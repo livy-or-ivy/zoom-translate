@@ -1,9 +1,9 @@
 {
-    "1": "Essa bandeira ainda não está disponível, você pode sugerir o adicionamento dela pelo comando **sugerir**.\nLista de Bandeiras:",
-    "2": "O seu avatar não pode ser o padrão do Discord.",
-    "3": "Exportando imagens, aguarde...\n**Dica:** _Para a imagem não ficar esticada, utilize uma imagem perfeitamente quadrada._",
-    "4": "Aqui está a sua imagem.",
-    "5": "Você só pode utilizar somente imagens.",
-    "6": "Lista de Bandeiras: ",
-    "7": "Você pode sugerir o adicionamento de novas bandeiras pelo comando **sugerir**."
+    "1": "This flag is not available yet, you can suggest adding it using the **sugerir** command.\nList of Flags:",
+    "2": "Your avatar cannot be Discord's default.",
+    "3": "Exporting images, wait...\n**Tip:** _For the image not to be stretched, use a perfectly square image._",
+    "4": "Here is your image.",
+    "5": "You can only use images.",
+    "6": "List of Flags: ",
+    "7": "You can suggest adding new flags using the **sugerir** command."
 }
