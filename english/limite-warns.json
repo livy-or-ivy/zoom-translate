@@ -1,9 +1,9 @@
 {
-    "1": "Você necessita possuir a permissão ``BANIR MEMBROS`` para executar essa função.",
-    "2": "O Valor máximo de warns é **10**.",
-    "3": "O Valor mínimo de warns é **2**.",
+    "1": "You must have ``BAN MEMBERS`` permission to run this command.",
+    "2": "The maximum value of warns is **10**.",
+    "3": "The minimum value of warns is **2**.",
     "4": {
-        "1": "O Limite de Warns foi alterado para",
-        "2": "com sucesso."
+        "1": "Warns Limit has been changed to",
+        "2": "sucessfully."
     }
 }
