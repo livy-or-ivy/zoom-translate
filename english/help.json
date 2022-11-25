@@ -1,17 +1,17 @@
 {
-    "1": "Não foi possível encontrar esse comando.",
+    "1": "Could not find this command.
     "2": {
-        "1": "Nome do Comando",
-        "2": "Descrição do Comando",
-        "3": "Como Usar"
+        "1": "Command Name",
+        "2": "Command Description",
+        "3": "How Use"
     },
     "3": {
-        "1": "Saiba mais informações sobre um comando utilizando ``/help (Comando)``.",
-        "2": "Administração",
-        "3": "Moderação",
-        "4": "Economia",
+        "1": "Learn more information about a command using ``/help (Command)``.",
+        "2": "Administration",
+        "3": "Moderation",
+        "4": "Economy",
         "5": "Social",
-        "6": "Utilidades",
+        "6": "Utility",
         "7": "Premium"
     }
 }
