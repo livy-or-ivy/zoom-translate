@@ -1,15 +1,15 @@
 {
-    "1": "Você necessita possuir a permissão ``GERENCIAR SERVIDOR`` para executar essa função.",
-    "2": "Você não pode bloquear este comando por motivos de segurança.",
-    "3": "Esse comando não existe.",
-    "4": "Esse comando já está bloqueado.",
+    "1": "You need assign at zoom the permission ``MANAGE GUILD`` to execute this command.",
+    "2": "You cannot block this command for security reasons.",
+    "3": "This command doesn't exist.",
+    "4": "This command is already blocked.",
     "5": { 
-        "1": "Você bloqueou o comando",
-        "2": "com sucesso."
+        "1": "You blocked the command",
+        "2": "successfully."
     },
-    "6": "Esse comando não está bloqueado para desbloquear-lo.",
+    "6": "This command isn't locked to unlock it.",
     "7": {
-        "1": "Você desbloqueou o comando",
-        "2": "com sucesso."
+        "1": "You unlocked the command",
+        "2": "sucessfully."
     }
 }
