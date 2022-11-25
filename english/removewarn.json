@@ -1,12 +1,12 @@
 {
-    "1": "Você necessita possuir a permissão ``BANIR MEMBROS`` para executar essa função.",
-    "2": "O Limite de Warns a ser removido é **10**.",
-    "3": "O Mínimo de Warns a ser removido é **1**.",
-    "4": "Esse usuário não possui nenhum warn para ser removido.",
-    "5": "Você removeu todos os warns do usuário.",
+    "1": "You must have ``BAN MEMBERS`` permission to run this command.",
+    "2": "The Maximum of warns that can be removed is **10**.",
+    "3": "The Minimum of warns that can be removed is **1**.",
+    "4": "This user has no warns to remove.",
+    "5": "You have removed all user warns.",
     "6": {
-        "1": "Você removeu",
-        "2": "do Usuário, agora ele possui",
+        "1": "You removed",
+        "2": "from the user, now he/she has",
         "3": "Warns"
     }
 }
