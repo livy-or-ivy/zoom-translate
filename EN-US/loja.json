@@ -1,0 +1,29 @@
+{
+    "1": {
+        "1": "Shop",
+        "2": "Buy",
+        "3": "Sell"
+    },
+    "2": {
+        "1": "Fishing Rod",
+        "2": "Fishes"
+    },
+    "3": "This item doesn't exist at the shop.",
+    "4": {
+        "1": "You don't have this item to sell it.",
+        "2": "This item is not available for sale.",
+        "3": {
+            "1": "You sold",
+            "2": "for"
+        }
+    },
+    "5": {
+        "1": "You don't have money to buy this item.",
+        "2": "You already have this item.",
+        "3": "This item is not available for purchase.",
+        "4": {
+            "1": "You bought",
+            "2": "for"
+        }
+    }
+}

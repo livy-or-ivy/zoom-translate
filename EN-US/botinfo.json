@@ -1,0 +1,21 @@
+{
+    "1": "BOT Information",
+    "2": {
+        "1": "Zoom Data",
+        "2": "Response Time",
+        "3": "Activity Time",
+        "4": "Creation Date"
+    },
+    "3": "Hosting",
+    "4": {
+        "1": "Details",
+        "2": "Developer",
+        "3": "Version"
+    },
+    "5": {
+        "1": "Statistics",
+        "2": "Servers",
+        "3": "Users",
+        "4": "Channels"
+    }
+}

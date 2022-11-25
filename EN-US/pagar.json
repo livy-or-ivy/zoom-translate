@@ -1,0 +1,9 @@
+{
+    "1": "You cannot pay yourself.",
+    "2": "You do not have this balance.",
+    "3": "The minimum payment amount is ``$2``.",
+    "4": {
+        "1": "You paid",
+        "2": "for"
+    }
+}

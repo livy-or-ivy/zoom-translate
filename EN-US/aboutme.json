@@ -1,0 +1,12 @@
+{
+    "1": "You do not have any messages set to be verified.",
+    "2": "You already have your message verified.",
+    "3": "You already have a verification order.",
+    "4": "Your request for verification has been sent successfully, here is some useful information about verification:\n\n• Any changes to the message will cancel the verification order.\n• Any change to the message will remove the verified.\n• Normally the verification period is 24 hours.\n• You will not receive any notice if it is verified or not.",
+    "5": "Your current about me message is verified, if you want to make any changes, you will need to remove the current message and consequently lose verification.",
+    "6": "The message has been successfully changed.\n<:zoom_dot:1003706248799191090> Your message verification has been automatically removed.",
+    "7": "The message has been successfully changed.\n<:zoom_dot:1003706248799191090> Your message will contain a security warning, you can remove it using ``/aboutme verificar``.",
+    "8": "You do not have any messages set to be removed.",
+    "9": "You have successfully removed the message.\n<:zoom_dot:1003706248799191090> Your message verification has been automatically removed.",
+    "10": "You have successfully removed the message."
+}
