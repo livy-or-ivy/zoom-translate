@@ -1,17 +1,17 @@
 {
-    "1": "Você necessita possuir a permissão ``GERENCIAR CANAIS`` para executar essa função.",
+    "1": "You must have ``MANAGE CHANNELS`` permission to run this command.",
     "2": {
-        "1": "Lista de Códigos",
-        "2": "Coloque esses códigos na mensagem de saída para eles funcionarem.",
-        "3": "Mostra o nome do usuário.",
-        "4": "Mostra os 4 números do discord do usuário.",
-        "5": "Mostra o id do usuário.",
-        "6": "Mostra o nome do servidor.",
-        "7": "Mostra a quantidade de membros do servidor."
+        "1": "Code List",
+        "2": "Put these codes in the message for them to work.",
+        "3": "Shows the username",
+        "4": "Shows the discriminator",
+        "5": "Shows the user id",
+        "6": "Shows the server name",
+        "7": "Shows the number of server members."
     },
-    "3": "O Canal de Saida foi atualizado com sucesso.",
-    "4": "O Envio de Mensagens de Saida já esta ligada.",
-    "5": "O Envio de Mensagens de Saida foi ligado com sucesso.",
-    "6": "O Envio de Mensagens de Saida já esta desligada.",
-    "7": "O Envio de Mensagens de Saida foi desligado com sucesso."
+    "3": "The Leave Channel has been updated successfully.",
+    "4": "The Leave Messaging is already on.",
+    "5": "The Leave Messaging has been turned on.",
+    "6": "The Leave Messaging is already off.",
+    "7": "The Leave Messaging has been turned off."
 }
