@@ -1,18 +1,18 @@
 {
-    "1": "Você necessita possuir a permissão ``GERENCIAR CANAIS`` para executar essa função.",
+    "1": "You must have ``MANAGE CHANNELS`` permission to run this command.",
     "2": {
-        "1": "Lista de Códigos",
-        "2": "Coloque esses códigos na mensagem de entrada para eles funcionarem.",
-        "3": "Menciona o usuário.",
-        "4": "Mostra o nome do usuário.",
-        "5": "Mostra os 4 números do discord do usuário.",
-        "6": "Mostra o id do usuário.",
-        "7": "Mostra o nome do servidor.",
-        "8": "Mostra a quantidade de membros do servidor."
+        "1": "Code List",
+        "2": "Put these codes in the message for them to work.",
+        "3": "Mention the user.",
+        "4": "Shows the username",
+        "5": "Shows the discriminator",
+        "6": "Shows the user id",
+        "7": "Shows the server name",
+        "8": "Shows the number of server members."
     },
-    "3": "O Canal de Entrada foi atualizado com sucesso.",
-    "4": "O Envio de Mensagens de Entrada já esta ligada.",
-    "5": "O Envio de Mensagens de Entrada foi ligado com sucesso.",
-    "6": "O Envio de Mensagens de Entrada já esta desligada.",
-    "8": "O Envio de Mensagens de Entrada foi desligado com sucesso."
+    "3": "The Welcome Channel has been successfully updated.",
+    "4": "Welcome Messaging is already on.",
+    "5": "Welcome Messaging has been turned on.",
+    "6": "Welcome Messaging is already off.",
+    "8": "Welcome Messaging has been turned off."
 }
