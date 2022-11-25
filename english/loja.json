@@ -1,29 +1,29 @@
 {
     "1": {
-        "1": "Loja",
-        "2": "Comprar",
-        "3": "Vemder"
+        "1": "Shop",
+        "2": "Buy",
+        "3": "Sell"
     },
     "2": {
-        "1": "Vara de Pescar",
-        "2": "Peixes"
+        "1": "Fishing Rod",
+        "2": "Fishes"
     },
-    "3": "Esse item não existe na loja.",
+    "3": "This item doesn't exist at the shop.",
     "4": {
-        "1": "Você não possui esse item para vender-lo.",
-        "2": "Esse item não está disponível a venda.",
+        "1": "You don't have this item to sell it.",
+        "2": "This item is not available for sale.",
         "3": {
-            "1": "Você vendeu",
-            "2": "por"
+            "1": "You sold",
+            "2": "for"
         }
     },
     "5": {
-        "1": "Você não possui dinheiro para comprar este item.",
-        "2": "Você já possui esse item comprado.",
-        "3": "Esse item não está disponível a compra.",
+        "1": "You don't have money to buy this item.",
+        "2": "You already have this item.",
+        "3": "This item is not available for purchase.",
         "4": {
-            "1": "Você comprou",
-            "2": "por"
+            "1": "You bought",
+            "2": "for"
         }
     }
 }
