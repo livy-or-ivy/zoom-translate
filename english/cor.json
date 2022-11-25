@@ -1,11 +1,11 @@
 {
-    "1": "Essa função está disponível somente aos usuários Premium.",
+    "1": "Only Premium Users can use this command.",
     "2": {
-        "1": "Não são somente essas cores disponíveis, você pode utilizar qualquer cor existente pesquisando por 'código hex cores', escolher o código hex da cor que você quer usar, e utilizar-lo.",
-        "2": "``#e63f7c`` Vermelho\n``#ff7b00`` Laranja\n``#ffe100`` Amarelo",
-        "3": "``#99ff00`` Verde\n``#00ffd9`` Ciano\n``#00b3ff`` Azul Claro",
-        "4": "``#001aff`` Azul\n``#6a00ff`` Roxo\n``#ff00f2`` Rosa"
+        "1": "Not only are these colors available, you can use any existing color by searching for 'hex color code', choose the hex code of the color you want to use, and use it.",
+        "2": "``#e63f7c`` Red\n``#ff7b00`` Orange\n``#ffe100`` Yellow",
+        "3": "``#99ff00`` Green\n``#00ffd9`` Cyan\n``#00b3ff`` Light Blue",
+        "4": "``#001aff`` Blue\n``#6a00ff`` Purple\n``#ff00f2`` Pink"
     },
-    "3": "Essa cor não existe no código hex.",
-    "4": "Você alterou a cor da embed com sucesso."
+    "3": "This color doesn't exist.",
+    "4": "You have successfully changed the embed color."
 }
