@@ -1,0 +1,17 @@
+{
+    "1": "Você necessita possuir a permissão ``GERENCIAR CANAIS`` para executar essa função.",
+    "2": {
+        "1": "Lista de Códigos",
+        "2": "Coloque esses códigos na mensagem de saída para eles funcionarem.",
+        "3": "Mostra o nome do usuário.",
+        "4": "Mostra os 4 números do discord do usuário.",
+        "5": "Mostra o id do usuário.",
+        "6": "Mostra o nome do servidor.",
+        "7": "Mostra a quantidade de membros do servidor."
+    },
+    "3": "O Canal de Saida foi atualizado com sucesso.",
+    "4": "O Envio de Mensagens de Saida já esta ligada.",
+    "5": "O Envio de Mensagens de Saida foi ligado com sucesso.",
+    "6": "O Envio de Mensagens de Saida já esta desligada.",
+    "7": "O Envio de Mensagens de Saida foi desligado com sucesso."
+}

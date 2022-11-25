@@ -1,0 +1,11 @@
+{
+    "1": "Você não tem nenhum item no seu inventário.",
+    "2": {
+        "1": "Inventário",
+        "2": "Lista de Itens",
+        "3": {
+            "1": "Detalhes",
+            "2": "Altere a imagem que aparecerá aqui pelo comando ``/banner``.\nAltere a cor do embed dessa mensagem pelo comando ``/cor``."
+        }
+    }
+}

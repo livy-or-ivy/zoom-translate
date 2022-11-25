@@ -1,0 +1,7 @@
+{
+    "1": "Você necessita atribuir a permissão ``GERENCIAR CARGOS`` para executar essa função.",
+    "2": "Você necessita possuir a permissão ``GERENCIAR CARGOS`` para executar essa função.",
+    "3": "Esse usuário já possui esse cargo.",
+    "4": "Não foi possível atribuir o cargo ao usuário, verifique se o cargo Zoom é superior.",
+    "5": "Cargo atribuido com sucesso ao usuário."
+}
