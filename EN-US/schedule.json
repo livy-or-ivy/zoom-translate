@@ -1,0 +1,12 @@
+{
+    "1": "Your schedule list is empty.",
+    "2": "List of IDs",
+    "3": "You don't have anything in your schedule with this ID.",
+    "4": "You removed this schedule with sucessfully.",
+    "5": "<:danger:1030934351556378655> For privacy reasons, we do not store the content saved to the database, for this reason, if the BOT restarts, your schedule will not be notified, do not keep information that cannot be lost.\n\nYou scheduled with sucessfully.\nIf you close your DM, the schedule will me removed.\n**ID:**",
+    "6": "To schedule, you need open your DM.",
+    "7": "Schedule | Time Ended",
+    "8": "Schedule Description",
+    "9": "The time value need be higher than ``2`` Minutes.",
+    "10": "See your DM."
+}

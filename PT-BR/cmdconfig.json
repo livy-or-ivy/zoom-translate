@@ -1,0 +1,15 @@
+{
+    "1": "Você necessita possuir a permissão ``GERENCIAR SERVIDOR`` para executar essa função.",
+    "2": "Você não pode bloquear este comando por motivos de segurança.",
+    "3": "Esse comando não existe.",
+    "4": "Esse comando já está bloqueado.",
+    "5": { 
+        "1": "Você bloqueou o comando",
+        "2": "com sucesso."
+    },
+    "6": "Esse comando não está bloqueado para desbloquear-lo.",
+    "7": {
+        "1": "Você desbloqueou o comando",
+        "2": "com sucesso."
+    }
+}

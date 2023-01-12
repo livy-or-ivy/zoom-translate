@@ -1,0 +1,20 @@
+{
+    "0": {
+        "1": "Sim",
+        "2": "Não",
+        "3": "Nenhuma",
+        "4": "Nenhuma mensagem definida."
+    },
+    "1": "Informações sobre o Usuário",
+    "2": {
+        "1": "Informações Gerais",
+        "2": "Usuário",
+        "3": "Data de Criação",
+        "4": "Criado à",
+        "5": "Ativo Desde"
+    },
+    "4": {
+        "1": "Detalhes",
+        "2": "⠀ㅤAltere a imagem que aparecerá aqui pelo comando ``/banner``.\n⠀ㅤAltere a cor do embed dessa mensagem pelo comando ``/color``."
+    }
+}

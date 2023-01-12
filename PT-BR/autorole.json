@@ -1,0 +1,8 @@
+{
+    "1": "Você necessita possuir a permissão ``GERENCIAR CARGOS`` para executar essa função.",
+    "2": "Você alterou o cargo com sucesso.\n\n<:danger:1030934351556378655> Para garantir que o sistema funcione corretamente, NÃO utilize cargos gerados automáticamente pelo Discord, e o cargo do Zoom necessita ser SUPERIOR ao cargo definido no autorole.",
+    "3": "Para você ligar o autorole, é necessário definir o cargo antes.",
+    "4": "Você ligou o autorole com sucesso.",
+    "5": "O Autorole já está desligado.",
+    "6": "Você desligou o autorole com sucesso."
+}

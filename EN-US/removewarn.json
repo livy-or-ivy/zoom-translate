@@ -1,0 +1,12 @@
+{
+    "1": "You must have ``BAN MEMBERS`` permission to run this command.",
+    "2": "The Maximum of warns that can be removed is **10**.",
+    "3": "The Minimum of warns that can be removed is **1**.",
+    "4": "This user has no warns to remove.",
+    "5": "You have removed all user warns.",
+    "6": {
+        "1": "You removed",
+        "2": "from the user, now he/she has",
+        "3": "Warns"
+    }
+}

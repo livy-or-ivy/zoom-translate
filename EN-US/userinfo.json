@@ -1,0 +1,20 @@
+{
+    "0": {
+        "1": "Yes",
+        "2": "No",
+        "3": "Nothing",
+        "4": "No defined message."
+    },
+    "1": "Informations about the User",
+    "2": {
+        "1": "General Information",
+        "2": "User",
+        "3": "Creation Date",
+        "4": "Created At",
+        "5": "Active Since"
+    },
+    "4": {
+        "1": "Details",
+        "2": "⠀ㅤChange the image that is shown here with ``/banner``.\n⠀ㅤChange the embed color with ``/color`` command."
+    }
+}

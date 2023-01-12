@@ -1,0 +1,23 @@
+{
+    "0": {
+        "1": "No",
+        "2": "Yes",
+        "3": "Free",
+        "4": "Supporter",
+        "6": "No plans to display status."
+    },
+    "2": {
+        "1": "Informations of Premium",
+        "2": "Premium User",
+        "3": "Premium Type"
+    },
+    "3": {
+        "1": "Details",
+        "2": "Change the image that is shown here with ``/banner``.\n⠀ㅤChange the embed color with ``/color`` command."
+    },
+    "4": "You already voted at top.gg, wait",
+    "5": "to vote again.",
+    "6": "Click",
+    "7": "here",
+    "8": "to vote for TOP.GG and receive Premium of ``12 Horas`` of thanks.\n\n<:data:1042155522280935466> You can only vote every ``12 Hours``."
+}

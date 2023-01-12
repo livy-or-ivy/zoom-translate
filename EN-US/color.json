@@ -1,0 +1,11 @@
+{
+    "1": "Only Premium Users can use this command.",
+    "2": {
+        "1": "Not only are these colors available, you can use any existing color by searching for 'hex color code', choose the hex code of the color you want to use, and use it.",
+        "2": "``#e63f7c`` Red\n``#ff7b00`` Orange\n``#ffe100`` Yellow",
+        "3": "``#99ff00`` Green\n``#00ffd9`` Cyan\n``#00b3ff`` Light Blue",
+        "4": "``#001aff`` Blue\n``#6a00ff`` Purple\n``#ff00f2`` Pink"
+    },
+    "3": "This color doesn't exist.",
+    "4": "You have successfully changed the embed color."
+}

@@ -1,0 +1,11 @@
+{
+    "1": "Your inventory is empty.",
+    "2": {
+        "1": "Inventory",
+        "2": "Your Items",
+        "3": {
+            "1": "Details",
+            "2": "Change the image that is shown here with ``/banner``.\n⠀ㅤChange the embed color with ``/color`` command."
+        }
+    }
+}

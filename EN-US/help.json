@@ -1,0 +1,20 @@
+{
+    "1": "Could not find this command.",
+    "2": {
+        "1": "Command Name",
+        "2": "Command Description",
+        "3": "How Use"
+    },
+    "3": {
+        "1": "Learn more information about a command using ``/help (Command)``.",
+        "2": "Administration",
+        "3": "Moderation",
+        "4": "Economy",
+        "5": "Social",
+        "6": "Utility",
+        "7": "Premium"
+    },
+    "4": "Actually Zoom has",
+    "5": "At total, Zoom has ran",
+    "6": "Commands."
+}

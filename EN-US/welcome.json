@@ -1,0 +1,18 @@
+{
+    "1": "You must have ``MANAGE CHANNELS`` permission to run this command.",
+    "2": {
+        "1": "Code List",
+        "2": "Put these codes in the message for them to work.",
+        "3": "Mention the user.",
+        "4": "Shows the username",
+        "5": "Shows the discriminator",
+        "6": "Shows the user id",
+        "7": "Shows the server name",
+        "8": "Shows the number of server members."
+    },
+    "3": "The Welcome Channel has been successfully updated.",
+    "4": "Welcome Messaging is already on.",
+    "5": "Welcome Messaging has been turned on.",
+    "6": "Welcome Messaging is already off.",
+    "7": "Welcome Messaging has been turned off."
+}

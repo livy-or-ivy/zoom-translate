@@ -1,0 +1,12 @@
+{
+    "1": "You need assign at zoom the permission ``MANAGE MESSAGES`` to execute this command.",
+    "2": "You must have ``MANAGE MESSAGES`` permission to run this command.",
+    "3": "The maximum value of messages to be cleared is **100**.",
+    "4": "The minimum value of messages to be cleared is **2**.",
+    "5": "Awaiting API Confirmation",
+    "6": "the API does not allow to delete messages from **14 days** ago.",
+    "7": {
+        "1": "You cleared",
+        "2": "Messages successfully.\n<:zoom_dot:1003706248799191090> This message will be deleted in **5s**, wait."
+    }
+}

@@ -1,0 +1,9 @@
+{
+    "1": "You must have ``BAN MEMBERS`` permission to run this command.",
+    "2": "The maximum value of warns is **10**.",
+    "3": "The minimum value of warns is **2**.",
+    "4": {
+        "1": "Warns Limit has been changed to",
+        "2": "sucessfully."
+    }
+}

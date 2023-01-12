@@ -1,0 +1,7 @@
+{
+    "1": "You need assign at zoom the permission ``MANAGE ROLES`` to execute this command.",
+    "2": "You must have ``MANAGE ROLES`` permission to run this command.",
+    "3": "This user doesn't have this role to be removed.",
+    "4": "Unable to remove user's role, check if the Zoom role is higher.",
+    "5": "Role successfully removed from user."
+}

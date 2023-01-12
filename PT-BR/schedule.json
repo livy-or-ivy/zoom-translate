@@ -1,0 +1,12 @@
+{
+    "1": "Você não tem nada salvo.",
+    "2": "Lista de IDs",
+    "3": "Não existe nada marcado com esse ID.",
+    "4": "Item removido da agenda com sucesso.",
+    "5": "<:danger:1030934351556378655> Por motivos de privacidade, não armazenamos o conteúdo salvo ao banco de dados, por esse motivo, caso o BOT reinicie, o seu compromisso não será notificado, não guarde informações que não podem ser perdidas.\n\nVocê agendou o compromisso com sucesso!\nCaso você feche a DM, o compromisso será removido.\n**ID:**",
+    "6": "Para agendar algo é necessário estár com a DM aberta.",
+    "7": "Agenda | Compromisso expirado",
+    "8": "Descrição do Compromisso",
+    "9": "O tempo necessita ser maior do que ``2`` Minutos.",
+    "10": "Verifique a sua DM."
+}
